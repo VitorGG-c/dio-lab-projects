@@ -1,5 +1,5 @@
 # dio-lab-projects
- Exercicios e aprrendizados do bootcamp Java da Dio
+ Exercicios e aprendizados do bootcamp Java da Dio
 
 # 👋 Olá, eu sou Vitor Gabriel Gomes!
 
